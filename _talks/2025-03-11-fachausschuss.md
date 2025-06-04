@@ -1,7 +1,7 @@
 ---
-title: "Talk on Application of Neural Networks for the Modelling of Transport Processes in Periodic Open-Cellular Structures"
+title: "Joint Talk on Application of Neural Networks for the Modelling of Transport Processes in Periodic Open-Cellular Structures"
 collection: talks
-type: "Talk"
+type: "Joint Talk"
 permalink: /talks/2025-03-11-fachausschuss
 venue: "University Stuttgart"
 date: 2025-03-11
